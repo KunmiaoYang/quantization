@@ -1,0 +1,3 @@
+/home/kyang12/workspace/eval_quantize_weights
+2018-07-11 13:18:53.815502: test_accuracy = 0.891429
+HG: eval time(min): 0.1, total time(min): 0.2
