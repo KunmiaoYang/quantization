@@ -1,0 +1,3 @@
+/home/kyang12/workspace/quantization/eval_quantize_nodes
+2018-07-11 14:17:48.012399: test_accuracy = 0.874286
+HG: eval time(min): 1.1, total time(min): 1.1
