@@ -1,0 +1,3 @@
+/home/kyang12/workspace/quantization/eval_frozen_weights
+2018-07-11 13:48:05.543138: test_accuracy = 0.888571
+HG: eval time(min): 0.1, total time(min): 0.1
